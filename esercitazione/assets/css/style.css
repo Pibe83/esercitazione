@@ -1,0 +1,98 @@
+
+
+
+body {
+
+    margin: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+header {
+    width: 100%;
+    background-color: black;
+    background-size: auto;
+}
+
+#logo {
+display: inline-block;
+width: 8em;
+padding: 2em;
+
+}
+
+h1, h3 {
+color: #25a2c3;
+font-family: 'Montserrat' sans-serif;
+line-height: 1.5;
+
+}
+
+
+h1 #contattaci {
+font-weight: 800;
+font-family: 'Montserrat' sans-serif;
+
+}
+
+.white {
+
+    color: white;
+}
+
+#banner {
+
+    display: inline-block;
+    background-image: url('/assets/immagini/banner.jpg');
+    font-weight: bold;
+}
+
+#bottone {
+
+    background-color: #f04c2f;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#notebook {
+border-radius: 40%;
+
+}
+
+#rosso {
+
+    background-color: #e22d0e;
+    padding: 1em;
+}
+
+.contenitore {
+
+margin: 2.5 5em;
+border: 2pxsolid;
+
+}
+
+.scheda {
+
+    display: inline-block;
+    width: 100%;
+}
+
+.sottosezioni {
+
+
+    margin-bottom: 2.5em;
+}
+
+
+footer {
+
+    padding: 1.5em;
+    background-color: #25a2c3;
+}
