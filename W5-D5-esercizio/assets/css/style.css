@@ -1,0 +1,165 @@
+
+
+nav {
+    display: flex;
+    background-color: yellow;
+    width: 100%;
+    height: 35%;
+    border-bottom: 4px solid black;
+    
+    
+    
+
+}
+
+#navlink {
+    flex-wrap: nowrap;
+}
+
+nav:hover{
+    background-color: white;
+}
+
+.box {
+
+    background-color: yellow;
+}
+
+.navcontainer {
+
+    display: flex;
+    justify-content: space-around;
+    height: 0 auto;
+    height: 80px;
+    align-items: center;
+    border-bottom: 2px solid black ;
+    
+}
+
+#btn1 {
+
+    background-color: black;
+    border-radius: 60px;
+    color: white;
+    height: 35px;
+    width: 130px;
+    
+}
+
+a {
+    right: 40px;
+}
+
+/* header*/
+
+header {
+
+    
+    background-color: yellow;
+    width: 100%;
+    
+}
+    
+    
+
+
+.testata {
+     display: flex;
+    height: 450px;
+    flex-direction: column;
+    align-content: space-around;
+    border-bottom: 2px solid black;
+}
+    
+
+
+#titolo {
+
+    font-size: 100px;
+    margin-left: 40px;
+}
+
+#sottotitolo {
+
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+#btn2 {
+
+    background-color: black;
+    border-radius: 60px;
+    color: white;
+    height: 35px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+
+/* icona1 */
+
+.icona1 {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+/*Articolo1*/
+
+
+
+.svg1 {
+
+    margin-left: 30px;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.primaSezione {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .primiArticoli {
+    width: 350px;
+    height: 150px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .imgsmall {
+    width: 30px;
+    border-radius: 20px;
+  }
+  
+  .testoArticoli {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  
+  .testoArticoli div {
+    height: 40%;
+  }
+  
+  .testoArticoli div :first-child {
+    font-size: small;
+  }
+  
+  .autore {
+    display: flex;
+    align-items: center;
+    
+  }
+
+
+
+
+  
