@@ -1,0 +1,62 @@
+
+
+body{
+    background-color: black;
+}
+
+#footer {
+    width: 30%;
+    justify-content: center;
+    margin-left: 330px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+
+#iconefoot{
+justify-content: center;
+margin-left: 180px;
+}
+
+#testof{
+  justify-content: center;
+}
+
+
+
+#btnfooter {
+
+    margin-left: 350px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+#navbar-scroll {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+
+  #fotoedit {
+
+    margin-right: 20px;
+    margin-bottom: 450px ;
+  }
+
+  #titedit {
+    left: 60px;
+  }
+
+  hr.custom-hr {
+    height: 3px;
+    background-color: gray;
+  }
+
+  .card:hover {
+    transition: 0.2s ease-in-out;
+  }
+
+  #parfooter {
+    margin-left: 30px;
+    margin-bottom: 100px;
+  }
